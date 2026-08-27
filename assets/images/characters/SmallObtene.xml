@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smallobtene.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="right0000" x="0" y="0" width="260" height="297" frameX="2" frameY="2" frameWidth="256" frameHeight="293"/>
+	<SubTexture name="right0001" x="260" y="0" width="257" height="288" frameX="2" frameY="2" frameWidth="253" frameHeight="284"/>
+	<SubTexture name="left0000" x="517" y="0" width="226" height="275" frameX="2" frameY="2" frameWidth="222" frameHeight="271"/>
+	<SubTexture name="left0001" x="0" y="297" width="222" height="271" frameX="2" frameY="2" frameWidth="218" frameHeight="267"/>
+	<SubTexture name="down0000" x="138" y="568" width="181" height="201" frameX="2" frameY="2" frameWidth="177" frameHeight="197"/>
+	<SubTexture name="down0001" x="517" y="297" width="176" height="207" frameX="2" frameY="2" frameWidth="172" frameHeight="203"/>
+	<SubTexture name="idle0000" x="222" y="297" width="151" height="263" frameX="2" frameY="2" frameWidth="147" frameHeight="259"/>
+	<SubTexture name="idle0001" x="373" y="297" width="144" height="263" frameX="2" frameY="2" frameWidth="140" frameHeight="259"/>
+	<SubTexture name="up0000" x="0" y="568" width="138" height="286" frameX="2" frameY="2" frameWidth="134" frameHeight="282"/>
+	<SubTexture name="up0001" x="743" y="0" width="139" height="297" frameX="2" frameY="2" frameWidth="135" frameHeight="293"/>
+</TextureAtlas>

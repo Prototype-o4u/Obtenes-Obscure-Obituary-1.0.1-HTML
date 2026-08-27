@@ -1,0 +1,51 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "talk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "talk",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "lookaway",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lookaway",
+			"anim": "lookaway",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "obtenetalk"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="obtenetransform.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="transform0000" x="309" y="492" width="154" height="488" frameX="2" frameY="2" frameWidth="150" frameHeight="484"/>
+	<SubTexture name="transform0001" x="156" y="492" width="153" height="493" frameX="2" frameY="2" frameWidth="149" frameHeight="489"/>
+	<SubTexture name="transform0002" x="0" y="492" width="156" height="494" frameX="2" frameY="2" frameWidth="152" frameHeight="490"/>
+	<SubTexture name="transform0003" x="438" y="0" width="201" height="488" frameX="2" frameY="2" frameWidth="197" frameHeight="484"/>
+	<SubTexture name="transform0004" x="223" y="0" width="215" height="488" frameX="2" frameY="2" frameWidth="211" frameHeight="484"/>
+	<SubTexture name="transform0005" x="0" y="0" width="223" height="492" frameX="2" frameY="2" frameWidth="219" frameHeight="488"/>
+</TextureAtlas>

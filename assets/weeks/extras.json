@@ -1,0 +1,36 @@
+{
+	"storyName": "extra",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"legacyink",
+			"guy",
+			[
+				100,
+				100,
+				100
+			]
+		],
+		[
+			"test",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"guy",
+		"",
+		""
+	],
+	"weekName": "Extra",
+	"hiddenUntilUnlocked": false
+}

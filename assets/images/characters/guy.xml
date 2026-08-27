@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0" x="27" y="117" width="27" height="54" frameX="-20" frameY="-9" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="idle1" x="0" y="117" width="27" height="55" frameX="-20" frameY="-9" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="down0" x="91" y="0" width="44" height="44" frameX="-10" frameY="-19" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="right0" x="0" y="0" width="45" height="58" frameX="-18" frameY="-7" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="down1" x="91" y="44" width="44" height="43" frameX="-11" frameY="-19" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="up0" x="160" y="0" width="24" height="64" frameX="-24" frameY="-1" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="right1" x="45" y="0" width="46" height="54" frameX="-19" frameY="-9" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="up1" x="135" y="0" width="25" height="64" frameX="-24" frameY="0" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="left0" x="42" y="58" width="44" height="55" frameX="-2" frameY="-8" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="left1" x="0" y="58" width="42" height="59" frameX="-3" frameY="-6" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

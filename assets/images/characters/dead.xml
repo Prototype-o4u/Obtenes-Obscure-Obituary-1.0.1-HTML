@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glaggleman.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="die0000" x="664" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0001" x="996" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0002" x="332" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0003" x="498" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0004" x="0" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0005" x="498" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0006" x="664" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0007" x="830" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0008" x="0" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0009" x="166" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="die0010" x="664" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0000" x="0" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0001" x="166" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0002" x="332" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0003" x="996" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0004" x="996" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0005" x="830" y="0" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0006" x="166" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0007" x="332" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0008" x="498" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0009" x="830" y="566" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+	<SubTexture name="deathanim0010" x="664" y="283" width="166" height="283" frameX="2" frameY="2" frameWidth="162" frameHeight="279"/>
+</TextureAtlas>

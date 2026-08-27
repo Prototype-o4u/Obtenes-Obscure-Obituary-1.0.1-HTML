@@ -1,0 +1,36 @@
+{
+	"storyName": "Contrast",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bliss",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ink",
+			"guy",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Darkness-falls",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"menusmallobtene",
+		"menuglaggleman",
+		""
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

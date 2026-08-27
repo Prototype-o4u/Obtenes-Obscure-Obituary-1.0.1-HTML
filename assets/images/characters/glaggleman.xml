@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glaggleman.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="missright0000" x="230" y="531" width="240" height="271" frameX="2" frameY="2" frameWidth="236" frameHeight="267"/>
+	<SubTexture name="missup0000" x="960" y="0" width="178" height="340" frameX="2" frameY="2" frameWidth="174" frameHeight="336"/>
+	<SubTexture name="missleft0000" x="0" y="531" width="230" height="295" frameX="2" frameY="2" frameWidth="226" frameHeight="291"/>
+	<SubTexture name="missdown0000" x="355" y="0" width="363" height="222" frameX="2" frameY="2" frameWidth="359" frameHeight="218"/>
+	<SubTexture name="down0000" x="0" y="0" width="355" height="234" frameX="2" frameY="2" frameWidth="351" frameHeight="230"/>
+	<SubTexture name="down0001" x="248" y="234" width="336" height="219" frameX="2" frameY="2" frameWidth="332" frameHeight="215"/>
+	<SubTexture name="left0000" x="0" y="234" width="248" height="297" frameX="2" frameY="2" frameWidth="244" frameHeight="293"/>
+	<SubTexture name="left0001" x="718" y="0" width="242" height="299" frameX="2" frameY="2" frameWidth="238" frameHeight="295"/>
+	<SubTexture name="up0000" x="1138" y="0" width="156" height="331" frameX="2" frameY="2" frameWidth="152" frameHeight="327"/>
+	<SubTexture name="up0001" x="960" y="340" width="157" height="340" frameX="2" frameY="2" frameWidth="153" frameHeight="336"/>
+	<SubTexture name="right0000" x="705" y="531" width="237" height="260" frameX="2" frameY="2" frameWidth="233" frameHeight="256"/>
+	<SubTexture name="right0001" x="470" y="531" width="235" height="263" frameX="2" frameY="2" frameWidth="231" frameHeight="259"/>
+	<SubTexture name="idle0000" x="176" y="826" width="176" height="266" frameX="2" frameY="2" frameWidth="172" frameHeight="262"/>
+	<SubTexture name="idle0001" x="0" y="826" width="176" height="268" frameX="2" frameY="2" frameWidth="172" frameHeight="264"/>
+</TextureAtlas>

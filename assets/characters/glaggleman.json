@@ -1,0 +1,88 @@
+{
+	"animations": [
+		{
+			"offsets": [-120, -100],
+			"loop": false,
+			"fps": 4,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [-130, -27],
+			"loop": false,
+			"fps": 4,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [-39, -70],
+			"loop": false,
+			"fps": 4,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-130, -100],
+			"loop": false,
+			"fps": 4,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-37, -138],
+			"loop": false,
+			"fps": 4,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [-20, -130],
+			"loop": false,
+			"fps": 4,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [-60, -70],
+			"loop": false,
+			"fps": 4,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft"
+		},
+		{
+			"offsets": [-120, -90],
+			"loop": false,
+			"fps": 4,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [-111, -26],
+			"loop": false,
+			"fps": 4,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/glaggleman",
+	"position": [0, 350],
+	"healthicon": "glaggleman",
+	"flip_x": true,
+	"healthbar_colors": [255, 255, 0],
+	"camera_position": [-120, 50],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true,
+	"gameOverChar": "dead"
+}

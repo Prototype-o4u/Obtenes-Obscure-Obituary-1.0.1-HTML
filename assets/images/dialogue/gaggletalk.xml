@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gaggletalk.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="happier0000" x="0" y="452" width="319" height="452" frameX="2" frameY="2" frameWidth="315" frameHeight="448"/>
+	<SubTexture name="sadder0000" x="0" y="0" width="319" height="452" frameX="2" frameY="2" frameWidth="315" frameHeight="448"/>
+	<SubTexture name="sad0000" x="319" y="0" width="319" height="452" frameX="2" frameY="2" frameWidth="315" frameHeight="448"/>
+	<SubTexture name="sad0001" x="0" y="0" width="319" height="452" frameX="2" frameY="2" frameWidth="315" frameHeight="448"/>
+	<SubTexture name="happy0000" x="638" y="0" width="319" height="452" frameX="2" frameY="2" frameWidth="315" frameHeight="448"/>
+	<SubTexture name="happy0001" x="0" y="452" width="319" height="452" frameX="2" frameY="2" frameWidth="315" frameHeight="448"/>
+</TextureAtlas>

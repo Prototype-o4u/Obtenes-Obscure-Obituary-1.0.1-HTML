@@ -1,0 +1,97 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "dad"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		400,
+		130
+	],
+	"stageUI": "",
+	"boyfriend": [
+		770,
+		100
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.9,
+	"objects": [
+		{
+			"x": -212,
+			"y": -146,
+			"scale": [
+				2,
+				2
+			],
+			"image": "icon-glaggleman3",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -77,
+			"y": -60,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "Bars",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_speed": 1,
+	"directory": "week1",
+	"opponent": [
+		100,
+		100
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"hide_girlfriend": true
+}

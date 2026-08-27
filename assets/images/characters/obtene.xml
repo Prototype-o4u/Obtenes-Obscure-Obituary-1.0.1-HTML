@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glaggleman.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="842" y="0" width="699" height="271" frameX="2" frameY="2" frameWidth="695" frameHeight="267"/>
+	<SubTexture name="down0001" x="0" y="511" width="692" height="283" frameX="2" frameY="2" frameWidth="688" frameHeight="279"/>
+	<SubTexture name="right0000" x="223" y="794" width="363" height="404" frameX="2" frameY="2" frameWidth="359" frameHeight="400"/>
+	<SubTexture name="right0001" x="842" y="271" width="378" height="407" frameX="2" frameY="2" frameWidth="374" frameHeight="403"/>
+	<SubTexture name="left0000" x="0" y="0" width="421" height="511" frameX="2" frameY="2" frameWidth="417" frameHeight="507"/>
+	<SubTexture name="left0001" x="421" y="0" width="421" height="508" frameX="2" frameY="2" frameWidth="417" frameHeight="504"/>
+	<SubTexture name="idle0000" x="1759" y="0" width="225" height="486" frameX="2" frameY="2" frameWidth="221" frameHeight="482"/>
+	<SubTexture name="idle0001" x="1759" y="486" width="211" height="487" frameX="2" frameY="2" frameWidth="207" frameHeight="483"/>
+	<SubTexture name="up0000" x="0" y="794" width="223" height="677" frameX="2" frameY="2" frameWidth="219" frameHeight="673"/>
+	<SubTexture name="up0001" x="1541" y="0" width="218" height="683" frameX="2" frameY="2" frameWidth="214" frameHeight="679"/>
+</TextureAtlas>
