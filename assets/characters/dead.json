@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets":,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "die",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets":,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathanim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets":,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathanim",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dead",
+	"position":,
+	"healthicon": "glaggleman",
+	"flip_x": false,
+	"healthbar_colors":,
+	"camera_position":,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
